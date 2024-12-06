@@ -1,0 +1,23 @@
+# Logs
+logs
+*.log
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+#Tasks Go
+Dec3/go_multiversx_accounts/go.sum
+
+# Tasks Python
+Dec3/python_multiversx_accounts/.venv/
+
+# Tasks Rust
+Dec3/rust_multiversx_accounts/target/

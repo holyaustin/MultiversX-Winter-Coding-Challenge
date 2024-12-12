@@ -1,0 +1,71 @@
+# Dec9, 2024
+
+## MultiversX Winter Coding Challenge 
+
+Task: Create a script that generates three accounts in each shard and requests tokens from the faucet for them.
+
+## All Transactions are in Devnet :  Proof below
+
+- go implementation
+
+https://devnet-explorer.multiversx.com/transactions/b9778ea179329a2e246b56d520e51c869be0fbf9428acbf52e3ed23cf7052478
+
+https://devnet-explorer.multiversx.com/transactions/ec20b5e3bfcf09bd8f7b40c4c1b2c884ef09fbcfd56a2e4fd406f851ed5b2cd7
+
+https://devnet-explorer.multiversx.com/transactions/a46647846e881697f84ad2651e4cb1283341c0e76bbf9892e759fbd0a2900820
+
+https://devnet-explorer.multiversx.com/transactions/c4eb00594124811d19b887186363db14231829b6b099f0292627b58e7373e06e
+
+https://devnet-explorer.multiversx.com/transactions/371ac3428aeafbe1cc3ddfa8ffc7bdee580946ddf23bb541937d406a880ee898
+
+https://devnet-explorer.multiversx.com/transactions/845d8bb52905c68d836d6112456ee3b98cfcdb0171ffded6d8acb1efcf702ccd
+
+https://devnet-explorer.multiversx.com/transactions/5b46d0dcecc02534811fb736b1a585be2ca33e50df13c927b1ed8862c1540c7b
+
+https://devnet-explorer.multiversx.com/transactions/6f193e3d24ac8eb58ca6bc2f9b286e3ce02318d7bbc24cf498300f1f4ff7b619
+
+https://devnet-explorer.multiversx.com/transactions/c62b1ef1c8ec24c19b583b3b90ffdcfcfd1d19ed9e1e8e1c279bcea72dfe51ff
+
+- python implementation
+
+https://devnet-explorer.multiversx.com/transactions/1fd18c527ea2f43e3d86d5d160d38cc50974a057c5ceb7e45b02aaa661e99b69
+
+https://devnet-explorer.multiversx.com/transactions/243595922733b06a3e564e0651d44ac8883ce1eef855af7983ade11c9026efcc
+
+https://devnet-explorer.multiversx.com/transactions/81e7b278611f7bc537f69d59c3c6890499df263f3524462f47083c91a4855f38
+
+https://devnet-explorer.multiversx.com/transactions/1100770858caf6f76280adccf113f9d5625088120b1a5fe3ddc0dff31bb2fec7
+
+https://devnet-explorer.multiversx.com/transactions/5284c45651d6c34e2e36bf4edff77e61b2b11f63b0e3a9557daadb24d8d062cf
+
+https://devnet-explorer.multiversx.com/transactions/d18cf70f585eb659944bc0489256900fccd0b38182522226e67e9e65df1347fd
+
+https://devnet-explorer.multiversx.com/transactions/8dae20939576383cbf502eb774fa8809a01a45dfb6012500284545b81663cc09
+
+https://devnet-explorer.multiversx.com/transactions/5b818f9a5b5900f0fe2fb1c8b93e666e8a7b0dda4fdab1d51d2f251a7ec17f90
+
+https://devnet-explorer.multiversx.com/accounts/erd159qfmxyrhev7nk6882m6nmtgft5v9yhwcf7hhdz59fpeug9re6nsarz3ar
+
+
+- rust implementation
+
+https://devnet-explorer.multiversx.com/transactions/ca70f529c25c8c60682486097183b99300c54e679be12237949a545391ce615c
+
+https://devnet-explorer.multiversx.com/transactions/0d28c66b6d11dc0de828d1a0a5f5a64a167f49534f8d8e5a132fff362707cc48
+
+https://devnet-explorer.multiversx.com/transactions/16668f10b45a60ded8afc1db1a8237718406f0ea6a1056e62b3c593c44e41f70
+
+https://devnet-explorer.multiversx.com/transactions/573862b45333abc237ab41c7b59555b856ed6809ab7d4511c4264fecfb767f64
+
+https://devnet-explorer.multiversx.com/transactions/9600e0f7019f2992fd02f5e94e2f982cc83a4383813ebf30214d71dc46383f28
+
+https://devnet-explorer.multiversx.com/transactions/38418157362fcd7de9040afe96ed8ee99b834f2094c3dfddbea83138c1349dae
+
+https://devnet-explorer.multiversx.com/transactions/a2c866fbb3ee9625cf7358296ec5b9afae4ffb2194677ae5b021a9c101073e87
+
+https://devnet-explorer.multiversx.com/transactions/d5b41da1112cf9282adfe401050b6dbfb0fd7cbc92a8df5dcb4bca872bf80c2a
+
+https://devnet-explorer.multiversx.com/transactions/7f381ae7cbe256bb61c82f9dddc90eead3037b7342a70b41c06423927d895423
+
+
+## All Transactions are in Devnet
